@@ -35,21 +35,13 @@ Tell the agent what you want to edit in the question, and include the QID.
 
 ### Example prompts
 
-```
-Write a hard coding question on linked list reversal. QID is reverseLinkedList. The question should be worth 25 points.
-```
- 
-```
-Make a randomized true/false question pool on AVL tree properties. QID: avlTrueFalse.
-```
- 
-```
-Add a matching question comparing abstract classes vs interfaces. QID: abstractVsInterface. Show 6 of the 9 statements each attempt.
-```
+> Write a hard coding question on linked list reversal. QID is reverseLinkedList. The question should be worth 25 points.
 
-```
-Modify the question with QID arrListRemoveDupes to ask the student to sort the list in descending order instead of ascending.
-```
+> Make a randomized true/false question pool on AVL tree properties. QID: avlTrueFalse.
+
+> Add a matching question comparing abstract classes vs interfaces. QID: abstractVsInterface. Show 6 of the 9 statements each attempt.
+
+> Modify the question with QID arrListRemoveDupes to ask the student to sort the list in descending order instead of ascending.
 
 ## Installation
 
